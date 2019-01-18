@@ -14,4 +14,5 @@ Feel free to add to this folder with interesting data sets!
 We can start to use this folder for sharing code.
 
 ## Links
+- [Event](https://www.womxnhacks.com/)
 - [Slack](https://ucsbgeographyladies.slack.com/)
