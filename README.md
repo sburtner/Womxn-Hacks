@@ -3,14 +3,10 @@
 Womxn/Hacks is an all women-identifying hackathon at UCSB. This is the (private) GitHub for our team!
 
 What's in this repository:
-- **Data**
-- **Work**
+- **Scripts**
 - **Links** to team and other resources
 
-## Data
-Feel free to add to this folder with interesting data sets!
-
-## Work
+## Scripts
 We can start to use this folder for sharing code.
 
 ## Links
