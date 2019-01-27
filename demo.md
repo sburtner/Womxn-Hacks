@@ -12,7 +12,7 @@ This application addresses the concern of **safe beach activity** by combining b
 
 ## Data
 We used the following data sources for our application:
-- wave height, direction, period and sea surface temperature: [Coastal Data Information](https://cdip.ucsd.edu/m/documents/data_access.html)
+- wave height, direction, period and sea surface temperature: [Coastal Data Information Program](https://cdip.ucsd.edu/m/documents/data_access.html)
 - water quality: [County of Santa Barbara](https://countyofsb.org/phd/oceanwatermonitoring/)
 
 ## Architecture (Proof of Concept)
