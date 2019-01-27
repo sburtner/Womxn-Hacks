@@ -1,14 +1,6 @@
+![s e a l e g s](https://raw.githubusercontent.com/sburtner/Womxn-Hacks/master/images/logo_smaller.png)
 
-
-Womxn/Hacks is an all female-identifying hackathon at UCSB. This is the GitHub repository for our team, the **Sheographers**!
-
-What's in this repository:
-- **Scripts**
-- **Links** to team and other resources
-
-## Scripts
-We can start to use this folder for sharing code.
+Womxn/Hacks is an all female-identifying hackathon at UCSB. This is the GitHub repository for our team, the **Sheographers**! More information on our project, **s e a l e g s**, can be found on our [wiki]().
 
 ## Links
-- [Event](https://www.womxnhacks.com/)
-- [Slack](https://ucsbgeographyladies.slack.com/)
+- This project was made and submitted for the [Womxn/Hacks](https://www.womxnhacks.com/)
