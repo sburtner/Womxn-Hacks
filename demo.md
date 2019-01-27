@@ -15,7 +15,12 @@ We used the following data sources for our application:
 - wave height, direction, period and sea surface temperature: [Coastal Data Information Program](https://cdip.ucsd.edu/m/documents/data_access.html)
 - water quality: [County of Santa Barbara](https://countyofsb.org/phd/oceanwatermonitoring/)
 
+
 ## Architecture (Proof of Concept)
+
+
+## Map
+[Santa Barbara Beach Conditions](https://www.google.com/maps/d/u/0/embed?mid=1kgLl27-pSO9xUAgM-bUurnDMLQEFqdyj&ll=34.67685850590946%2C-120.06610850000004&z=10)
 
 ## Live Demo
 Time for the live demo!
