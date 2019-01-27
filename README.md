@@ -1,4 +1,4 @@
-![s e a l e g s](https://raw.githubusercontent.com/sburtner/Womxn-Hacks/master/images/logo_smaller.png)
+![s e a l e g s](https://raw.githubusercontent.com/sburtner/Womxn-Hacks/master/images/logo.png)
 
 Womxn/Hacks is an all female-identifying hackathon at UCSB. This is the GitHub repository for our team, the **Sheographers**! More information on our project, **s e a l e g s**, can be found on our [wiki]().
 
