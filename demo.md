@@ -1,5 +1,5 @@
 # s e a l e g s
-## Team: **The Sheographers**
+**Team**: *The Sheographers*
 
 ## About Us
 We are a group of Geography graduate students here at UCSB!
