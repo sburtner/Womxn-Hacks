@@ -25,10 +25,6 @@ We used the following data sources for our application:
 <iframe width="600" height="450" src="https://www.google.com/maps/d/u/0/embed?mid=1kgLl27-pSO9xUAgM-bUurnDMLQEFqdyj&ll=34.67685850590946%2C-120.06610850000004&z=10" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 </center>
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1kgLl27-pSO9xUAgM-bUurnDMLQEFqdyj&ll=34.67685850590946%2C-120.06610850000004&z=10" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
-</iframe>
-
-[Santa Barbara Beach Conditions](https://www.google.com/maps/d/u/0/embed?mid=1kgLl27-pSO9xUAgM-bUurnDMLQEFqdyj&ll=34.67685850590946%2C-120.06610850000004&z=10)
 
 ## Live Demo
 Time for the live demo!
